@@ -66,8 +66,8 @@ require (
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/syndtr/goleveldb v1.0.0
-	github.com/tidwall/gjson v1.3.2
-	github.com/tidwall/match v1.0.1
+	github.com/tidwall/gjson v1.9.3
+	github.com/tidwall/match v1.1.1
 	github.com/willf/bitset v1.1.10 // indirect
 	github.com/willf/bloom v2.0.3+incompatible
 	github.com/wsxiaoys/terminal v0.0.0-20160513160801-0940f3fc43a0 // indirect
